@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\CodeLab\CodeLab13\bin\Debug\CodeLab13.exe.config
+C:\Users\user\source\repos\CodeLab\CodeLab13\bin\Debug\CodeLab13.exe
+C:\Users\user\source\repos\CodeLab\CodeLab13\bin\Debug\CodeLab13.pdb
+C:\Users\user\source\repos\CodeLab\CodeLab13\obj\Debug\CodeLab13.csprojAssemblyReference.cache
+C:\Users\user\source\repos\CodeLab\CodeLab13\obj\Debug\CodeLab13.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CodeLab\CodeLab13\obj\Debug\CodeLab13.exe
+C:\Users\user\source\repos\CodeLab\CodeLab13\obj\Debug\CodeLab13.pdb

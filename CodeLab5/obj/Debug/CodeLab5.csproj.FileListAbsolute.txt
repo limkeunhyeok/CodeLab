@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\CodeLab\CodeLab5\bin\Debug\CodeLab5.exe.config
+C:\Users\user\source\repos\CodeLab\CodeLab5\bin\Debug\CodeLab5.exe
+C:\Users\user\source\repos\CodeLab\CodeLab5\bin\Debug\CodeLab5.pdb
+C:\Users\user\source\repos\CodeLab\CodeLab5\obj\Debug\CodeLab5.Form1.resources
+C:\Users\user\source\repos\CodeLab\CodeLab5\obj\Debug\CodeLab5.Properties.Resources.resources
+C:\Users\user\source\repos\CodeLab\CodeLab5\obj\Debug\CodeLab5.csproj.GenerateResource.cache
+C:\Users\user\source\repos\CodeLab\CodeLab5\obj\Debug\CodeLab5.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CodeLab\CodeLab5\obj\Debug\CodeLab5.exe
+C:\Users\user\source\repos\CodeLab\CodeLab5\obj\Debug\CodeLab5.pdb
+C:\Users\user\source\repos\CodeLab\CodeLab5\obj\Debug\CodeLab5.csprojAssemblyReference.cache

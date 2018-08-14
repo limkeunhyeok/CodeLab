@@ -1,29 +1,22 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace CodeLab6
 {
-    internal class Program
+    static class Program
     {
-        private static void Main(string[] args)
+        /// <summary>
+        /// 해당 응용 프로그램의 주 진입점입니다.
+        /// </summary>
+        [STAThread]
+        static void Main()
         {
-            Console.WriteLine("person 객체 생성되기 전");
-            Person person = new Person();
-            Console.WriteLine("person 객체 생성");
-        }
-    }
-
-    internal class Person
-    {
-        private string name;
-
-        public Person()
-        {
-            name = "홍길동";
-            Console.WriteLine("생성자 호출");
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
         }
     }
 }

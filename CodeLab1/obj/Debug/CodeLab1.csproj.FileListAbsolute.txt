@@ -1,7 +1,7 @@
+C:\Users\user\source\repos\CodeLab\CodeLab1\obj\Debug\CodeLab1.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\CodeLab\CodeLab1\bin\Debug\CodeLab1.exe.config
 C:\Users\user\source\repos\CodeLab\CodeLab1\bin\Debug\CodeLab1.exe
 C:\Users\user\source\repos\CodeLab\CodeLab1\bin\Debug\CodeLab1.pdb
-C:\Users\user\source\repos\CodeLab\CodeLab1\obj\Debug\CodeLab1.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\CodeLab\CodeLab1\obj\Debug\CodeLab1.exe
 C:\Users\user\source\repos\CodeLab\CodeLab1\obj\Debug\CodeLab1.pdb
-C:\Users\user\source\repos\CodeLab\CodeLab1\obj\Debug\CodeLab1.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\CodeLab\CodeLab1\obj\Debug\CodeLab1.csprojAssemblyReference.cache

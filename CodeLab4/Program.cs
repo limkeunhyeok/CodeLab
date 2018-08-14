@@ -8,26 +8,30 @@ namespace CodeLab4
 {
     internal class Program
     {
-        // LeanearSearch
         private static void Main(string[] args)
         {
-            int[] arr = new int[10] { 4, 10, 1, 5, 9, 8, 7, 6, 3, 2 };
-            int result = LinearSearch(arr);
-            Console.WriteLine(result);
+            SingletonClass manager = SingletonClass.GetInstance();
+        }
+    }
+
+    internal class SingletonClass
+    {
+        private static SingletonClass instance = null;
+        private int value;
+
+        private SingletonClass()
+        {
+            value = 10;
         }
 
-        public static int LinearSearch(int[] arr)
+        public static SingletonClass GetInstance()
         {
-            Console.Write("찾고 싶은 숫자 : ");
-            int num = int.Parse(Console.ReadLine());
-            for (int i = 0; i < 10; i++)
+            instance.value++;
+            if (instance == null)
             {
-                if (arr[i] == num)
-                {
-                    return i;
-                }
+                instance = new SingletonClass();
             }
-            return -1;
+            return instance;
         }
     }
 }

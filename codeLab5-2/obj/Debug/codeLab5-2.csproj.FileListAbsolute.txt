@@ -1,7 +1,0 @@
-C:\Users\user\source\repos\CodeLab\codeLab5-2\bin\Debug\codeLab5-2.exe.config
-C:\Users\user\source\repos\CodeLab\codeLab5-2\bin\Debug\codeLab5-2.exe
-C:\Users\user\source\repos\CodeLab\codeLab5-2\bin\Debug\codeLab5-2.pdb
-C:\Users\user\source\repos\CodeLab\codeLab5-2\obj\Debug\codeLab5-2.csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\CodeLab\codeLab5-2\obj\Debug\codeLab5-2.exe
-C:\Users\user\source\repos\CodeLab\codeLab5-2\obj\Debug\codeLab5-2.pdb
-C:\Users\user\source\repos\CodeLab\codeLab5-2\obj\Debug\codeLab5-2.csprojResolveAssemblyReference.cache

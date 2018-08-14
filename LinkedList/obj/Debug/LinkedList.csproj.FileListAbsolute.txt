@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\CodeLab\LinkedList\bin\Debug\LinkedList.dll
+C:\Users\user\source\repos\CodeLab\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\user\source\repos\CodeLab\LinkedList\obj\Debug\LinkedList.csprojAssemblyReference.cache
+C:\Users\user\source\repos\CodeLab\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CodeLab\LinkedList\obj\Debug\LinkedList.dll
+C:\Users\user\source\repos\CodeLab\LinkedList\obj\Debug\LinkedList.pdb

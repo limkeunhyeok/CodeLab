@@ -1,7 +1,10 @@
 C:\Users\user\source\repos\CodeLab\CodeLab6\bin\Debug\CodeLab6.exe.config
 C:\Users\user\source\repos\CodeLab\CodeLab6\bin\Debug\CodeLab6.exe
 C:\Users\user\source\repos\CodeLab\CodeLab6\bin\Debug\CodeLab6.pdb
-C:\Users\user\source\repos\CodeLab\CodeLab6\obj\Debug\CodeLab6.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\CodeLab\CodeLab6\obj\Debug\CodeLab6.Form1.resources
+C:\Users\user\source\repos\CodeLab\CodeLab6\obj\Debug\CodeLab6.Properties.Resources.resources
+C:\Users\user\source\repos\CodeLab\CodeLab6\obj\Debug\CodeLab6.csproj.GenerateResource.cache
 C:\Users\user\source\repos\CodeLab\CodeLab6\obj\Debug\CodeLab6.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\CodeLab\CodeLab6\obj\Debug\CodeLab6.exe
 C:\Users\user\source\repos\CodeLab\CodeLab6\obj\Debug\CodeLab6.pdb
+C:\Users\user\source\repos\CodeLab\CodeLab6\obj\Debug\CodeLab6.csprojAssemblyReference.cache

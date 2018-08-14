@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\CodeLab\CodeLab10\obj\Debug\CodeLab10.csprojAssemblyReference.cache
+C:\Users\user\source\repos\CodeLab\CodeLab10\obj\Debug\CodeLab10.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CodeLab\CodeLab10\bin\Debug\CodeLab10.exe.config
+C:\Users\user\source\repos\CodeLab\CodeLab10\bin\Debug\CodeLab10.exe
+C:\Users\user\source\repos\CodeLab\CodeLab10\bin\Debug\CodeLab10.pdb
+C:\Users\user\source\repos\CodeLab\CodeLab10\bin\Debug\LinkedList.dll
+C:\Users\user\source\repos\CodeLab\CodeLab10\bin\Debug\LinkedList.pdb
+C:\Users\user\source\repos\CodeLab\CodeLab10\obj\Debug\CodeLab10.csproj.CopyComplete
+C:\Users\user\source\repos\CodeLab\CodeLab10\obj\Debug\CodeLab10.exe
+C:\Users\user\source\repos\CodeLab\CodeLab10\obj\Debug\CodeLab10.pdb
